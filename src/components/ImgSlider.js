@@ -62,6 +62,9 @@ const ImgSlider = () => {
             <Wrap>
                 <img src="/images/slider-badging.jpg" alt="pics" />
             </Wrap>
+            <Wrap>
+                <img src="/images/slider-badag.jpg" alt="pics" />
+            </Wrap>
         </Carousel>
     )
 }
